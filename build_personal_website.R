@@ -1,0 +1,6 @@
+library(blogdown)
+#install_hugo()
+hugo_version()
+new_site(theme = "ofmla/starter-academic")
+check_gitignore()
+check_content()
