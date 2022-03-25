@@ -1,6 +1,6 @@
 theme: starter-academic
 title: Academic
-baseurl: ''
+baseurl: 'https://notebookofxiaoming.netlify.app/' # website url
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
