@@ -8,3 +8,5 @@ check_content()
 ## git config --global user.name "NotebookOFXiaoMing"
 ## git config --global user.name "punica24@njfu.edu.cn"
 ## git add -A
+
+serve_site()
